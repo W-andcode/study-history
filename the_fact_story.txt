@@ -1,5 +1,5 @@
 ini berisi tentang cerita, apa saja yang sudah saya lakukan dari 0 dalam beljar menjadi programer
-- pernah belajar dasar sublime text & dasar di chanel UNPAS
-- belajar HTML & HTML5 di chanel UNPAS
-- belajar CSS3 
-- mencoba membuat website sederhana yang berisi tentang karakter avengers di movie 
+- pernah belajar dasar sublime text & dasar di chanel UNPAS di tahun 2024
+- belajar HTML & HTML5 di chanel UNPAS di tahun 2024
+- belajar CSS3 di tahun 2024
+- mencoba membuat website sederhana yang berisi tentang karakter avengers di movie di tahun 2024
