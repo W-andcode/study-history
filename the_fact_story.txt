@@ -3,3 +3,6 @@ ini berisi tentang cerita, apa saja yang sudah saya lakukan dari 0 dalam beljar 
 - belajar HTML & HTML5 di chanel UNPAS di tahun 2024
 - belajar CSS3 di tahun 2024
 - mencoba membuat website sederhana yang berisi tentang karakter avengers di movie di tahun 2024
+- mulai belajar VCcode, termasuk shortcutnya di chanel UNPAS 
+- mulai belajar python di kampus UNUJA dan membuat source code seperti kalkulator sederhana
+- sedang belajar Laravel 11 di organisasi bootcamp 
